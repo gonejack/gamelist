@@ -1,0 +1,7 @@
+<game>
+    <path>{p.file}</path>
+    <name>{p.game}</name>
+    <developer>{p.developer}</developer>
+    <desc>{p.description}</desc>
+    <players>1</players>
+</game>
